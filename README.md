@@ -1,11 +1,10 @@
 <div align="center">
-    <h1>Hi, I'm DevGalan 👋</h1>
+    <h1>Hola, soy Galán 👋</h1>
 </div>
 
-# 😄 About me
+# 😄 Sobre mi
 
-I am a fan of programming in general, since I was a child I have always been interested in creating video games and modifications of existing games, I am currently very interested in both game development and Web development, mainly the Backend.
-I'm currently working on my Android game TuCofradia and on small projects that come up.
+Me llamo José Manuel Galán Moyano y soy un apasionado de la programación enfocado principalmente al backend. Actualmente me dedico a desarrollar pequeños juegos para Android utilizando C# en Unity.
 
 # 💻 Tech Stack
 
@@ -23,23 +22,8 @@ I'm currently working on my Android game TuCofradia and on small projects that c
 
 - ## Databases
 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 - ## Tools
 
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-
-<!--
-**DevGalan/DevGalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
