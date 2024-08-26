@@ -4,7 +4,8 @@
 
 # 😄 Sobre mi
 
-Me llamo José Manuel Galán Moyano y soy un apasionado de la programación enfocado principalmente al backend. Actualmente me dedico a desarrollar pequeños juegos para Android utilizando C# en Unity.
+Me llamo José Manuel Galán Moyano y soy un apasionado de la programación enfocado principalmente al backend.
+También me gusta el desarrollo móvil con Kotlin en Andriod Studio.
 
 # 💻 Tech Stack
 
