@@ -14,7 +14,7 @@ Fuera del entorno corporativo, sigo explorando el ecosistema digital a través d
 ![Java](https://img.shields.io/badge/java-blue.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Camel](https://img.shields.io/badge/Apache%20Camel-orange.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ### 🏥 Interoperabilidad & Healthcare
-<img src="https://img.shields.io/badge/HL7%20%20FHIR-%23E43716.svg?style=for-the-badge" alt="FHIR"> <img src="https://img.shields.io/badge/SNOMED CT-blue.svg?style=for-the-badge" alt="SNOMED CT">
+<img src="https://img.shields.io/badge/HL7 FHIR-%23E43716.svg?style=for-the-badge" alt="FHIR"> <img src="https://img.shields.io/badge/SNOMED CT-blue.svg?style=for-the-badge" alt="SNOMED CT">
 
 ### ☁️ DevOps & Cloud
 ![Red Hat OpenShift](https://img.shields.io/badge/Red%20Hat%20OpenShift-%23EE0000.svg?style=for-the-badge&logo=red-hat&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
