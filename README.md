@@ -2,33 +2,35 @@
     <h1>Hola, soy Galán 👋</h1>
 </div>
 
-# 😄 Sobre mi
+## 🚀 Sobre mí
 
-Me llamo José Manuel Galán Moyano y soy un apasionado de la programación enfocado principalmente al backend.
-También me gusta el desarrollo móvil con Kotlin en Andriod Studio.
+Soy **Integration Developer** en Minsait (Indra), especializado en el desarrollo e integración de sistemas críticos para el **sector sanitario (Healthcare)**. Mi enfoque principal es garantizar la interoperabilidad, la escalabilidad y el flujo de datos eficiente bajo estándares internacionales.
 
-# 💻 Tech Stack
+Fuera del entorno corporativo, sigo explorando el ecosistema digital a través del desarrollo móvil nativo y proyectos personales.
 
-- ## Frontend
+## 💻 Tech Stack
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### ⚙️ Backend & Integración de Sistemas
+![Java](https://img.shields.io/badge/java-blue.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Camel](https://img.shields.io/badge/Apache%20Camel-orange.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-- ## Backend
+### 🏥 Interoperabilidad & Healthcare
+<img src="https://img.shields.io/badge/HL7%20%20FHIR-%23E43716.svg?style=for-the-badge" alt="FHIR"> <img src="https://img.shields.io/badge/SNOMED CT-blue.svg?style=for-the-badge" alt="SNOMED CT">
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+### ☁️ DevOps & Cloud
+![Red Hat OpenShift](https://img.shields.io/badge/Red%20Hat%20OpenShift-%23EE0000.svg?style=for-the-badge&logo=red-hat&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-- ## Mobile
+### 📱 Desarrollo Móvil (Proyectos Personales)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white) ![Compose](https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=Jetpack-Compose&logoColor=white)
+### 🔧 Herramientas
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
-- ## Frameworks and libraries
+### 📊 Bases de Datos
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
+---
 
-- ## Databases
+## 📈 Conectemos
+Si quieres charlar sobre arquitectura backend, interoperabilidad sanitaria o desarrollo móvil, no dudes en contactar conmigo:
 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-- ## Tools
-
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+💼 [LinkedIn](https://es.linkedin.com/in/jos%C3%A9-manuel-gal%C3%A1n-moyano-7a91391b8)
